@@ -20,6 +20,7 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+// test comment
 
   return (
     <div className="App">
